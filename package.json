@@ -10,7 +10,7 @@
     "e2e": "ng e2e",
     "scully": "npx scully --",
     "scully:serve": "npx scully serve --",
-    "heroku-postbuild": "ng build --prod"
+    "heroku-postbuild": "ng build"
   },
   "private": true,
   "dependencies": {
