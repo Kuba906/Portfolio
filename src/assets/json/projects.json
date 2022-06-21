@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Weather app",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": ""
+    },
+    {
+        "name": "Calculator",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": true
+    },
+    {
+        "name": "E-commerce project",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": ""
+    },
+    {
+        "name": "Data analysis app",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": ""
+    },
+    {
+        "name": "Chatting app",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": true
+    },
+    {
+        "name": "One page project",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": true
+    },
+    {
+        "name": "ToDo App",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": ""
+    },
+    {
+        "name": "Checking prices App",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": ""
+    },
+    {
+        "name": "Blog App",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": true
+    },
+    {
+        "name": "Music App",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "",
+        "previewUrl": ""
+    }
+]
